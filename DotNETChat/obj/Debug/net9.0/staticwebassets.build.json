@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WPxy4TiSAdV475yzpgPa22ShZZ9ur5xKEf4JdP06mU8=",
+  "Source": "DotNETChat",
+  "BasePath": "_content/DotNETChat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
